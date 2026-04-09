@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "translator")(type "KiCad")(uri "${KIPRJMOD}/libs/translator/translator.kicad_sym")(options "")(descr ""))
+)
