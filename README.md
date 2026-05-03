@@ -48,6 +48,8 @@ I can't really test if just providing the links works so uh. Good luck, let me k
 
 ## Wiring
 
-Reference the schematic for wiring on the PCB side, this is the pinout of the cable.
+This is the pinout of the cable, and the board itself. Just run the appropriate wires between them.
 
 ![](/readme-assets/pinout.png)
+
+![](image.png)
