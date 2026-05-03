@@ -15,6 +15,24 @@ This is a little microcontroller used to adjust pedals for the Thrustmaster Ferr
 - 2x 1x3 P2.54mm pinheaders
 - 2x 1x4 P2.54mm pinheaders
 
+## BOM
+
+|Item                        |URL                                              |Price |Quantity needed|Quantity to order|Total|
+|----------------------------|-------------------------------------------------|------|---------------|-----------------|-----|
+|STM32G071GBU6               |<https://www.lcsc.com/product-detail/C529347.html> |1.65  |1              |1                |1.65 |
+|100nF cap                   |<https://www.lcsc.com/product-detail/C60474.html>  |0.0011|1              |100              |0.11 |
+|4.7uF cap                   |<https://www.lcsc.com/product-detail/C23733.html>  |0.0059|1              |50               |0.295|
+|TS-1088-AR02016 (pushbutton)|<https://www.lcsc.com/product-detail/C720477.html> |0.0558|1              |10               |0.558|
+|PZ254V-11-04P               |<https://www.lcsc.com/product-detail/C2691448.html>|0.0254|2              |20               |0.508|
+|PZ254V-11-03P               |<https://www.lcsc.com/product-detail/C2937625.html>|0.0186|2              |50               |0.93 |
+|                            |                                                 |      |               |                 |     |
+|                            |                                                 |      |               |                 |     |
+|Subtotal                    |4.06                                             |      |               |                 |     |
+|Shipping and handling       |11.72                                            |      |               |                 |     |
+|PCB                         |5.22                                             |      |               |                 |     |
+|                            |                                                 |      |               |                 |     |
+|**Total**                       |22.7325                                          |      |               |                 |     |
+
 ## Microcontroller 3D model
 
 In accordance with the terms of SnapMagic's terrible license, I can't redistribute the microcontroller 3D model, hence it's not included. If you want it, it's on Digikey.
