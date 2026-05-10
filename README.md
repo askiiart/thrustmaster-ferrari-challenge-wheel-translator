@@ -1,6 +1,6 @@
 # Thrustmaster FGT translator
 
-This is a little microcontroller used to adjust pedals for the Thrustmaster Ferrari GT/Challenge wheel.
+This is a little microcontroller used to adjust pedals for the Thrustmaster Ferrari GT/Challenge wheel. It takes the potentiometer values, adjusts them to match that the controller expects, and outputs the values through the DACs to the rest of the controller.
 
 ![render of the pcb](/readme-assets/pcb.png)
 
@@ -48,8 +48,10 @@ I can't really test if just providing the links works so uh. Good luck, let me k
 
 ## Wiring
 
-This is the pinout of the cable, and the board itself. Just run the appropriate wires between them.
+The wiring is a 1-to-1 copy of the original board - wire the 4-pin to the left connector (J1, italicized). But for reference, this is the pinout of the RJ9 (board connector is the same)
 
 ![](/readme-assets/pinout.png)
 
-![](image.png)
+And the pinout of the PCB:
+
+![](/readme-assets/pcb-pinout.png)
